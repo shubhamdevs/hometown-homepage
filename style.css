@@ -30,6 +30,14 @@ body {
     background-color: #e56b6f;
     padding: 5px 8px;
     border-radius: 8px;
-    margin-bottom: 10px;
+    margin-bottom: 20px;
 }
 
+.des-text {
+    background-color: #f4d58d;
+    font-size: 50px;
+    color: #e56b6f;
+    padding: 4px 15px;
+    border-radius: 10px;
+    text-shadow: 0px 0px 1px;
+}
